@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**jahndan/jahndan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+<!-- <a href="https://github.com/example/link">example text</a> -->
+<!-- turn jahndan into a link to personal website? see above comment -->
+<b>jahndan</b> (<i>he/they</i>):
+- a <b>third year</b> undergrad at the University of Minnesota:
+  - majors: [ <i>Computer Science</i>, <i>Computer Engineering</i> ]
+  - minor: <i>Math</i>
+- currently taking:
+  - Data Structures & Algorithms
+  - Computer Architecture
+  - Signals and Systems
+  - Analog Electronics
+  - Applied Linear Algebra
+- currently working on a number of projects, including:
+  - a <a href="https://github.com/chaunmt/Interactive-Prerequisite-Flowchart">website</a> that visually represents course prerequisite information
+  - a <a href="https://github.com/jahndan/nuzlocke-tracker">nuzlocke tracker</a> based on image recognition
+  - an artistic <a href="https://github.com/jahndan/palette-decimator">color quantization tool</a> that reduces the color palette of an image
+- currently learning:
+  - programming languages: [ Rust, Go, Lua ]
+  - instruments: [ bass, guitar ]
+- other interests:
+  - music production
+  - digital signal processing
+  - abstract algebra
+</pre>
